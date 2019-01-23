@@ -45,3 +45,4 @@ int main()
     checkHostEntry(host_entry);
 
     printf("Hostname: %s\n", hostbuffer);
+}
