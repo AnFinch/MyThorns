@@ -1,5 +1,3 @@
-#include "cctk.h"
-#include "cctk_Arguments.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
