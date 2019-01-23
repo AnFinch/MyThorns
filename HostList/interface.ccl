@@ -1,0 +1,4 @@
+# Interface definition for thorn HostList
+# $Header
+
+implements: HostList

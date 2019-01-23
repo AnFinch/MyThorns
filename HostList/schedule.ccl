@@ -1,0 +1,8 @@
+# Schedule definitions for thorn HostList
+# $Header$
+
+schedule HostList at CCTK_EVOL
+{
+  LANG: C
+} "Print message to screen"
+
